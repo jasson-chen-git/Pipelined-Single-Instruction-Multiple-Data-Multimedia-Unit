@@ -1,4 +1,4 @@
-This project is the combination of 2 smaller tasks for a Computer Architecture Course.
+This project is the combination of 2 smaller tasks for a Computer Architecture course.
 
 The goal is to create a CPU core that will perform arithmetic based on a given opcode and write the data back to a register file.
 The components that make up this project are an ALU, a register file, an instruction buffer, several stage registers (each labeled by their position in the stage), forwarding unit to detect data hazards, and a multiplexer.
