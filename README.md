@@ -5,3 +5,6 @@ The components that make up this project are an ALU, a register file, an instruc
 There are several other files that will serve as the read/write file in which the program will read instructions/opcodes from/to. 
 A python script is also provided to translate the instructions to opcodes onto a separate text file.
 The output textfile is word-formatted to display the different stages and cycles in an organized fashion and the final state of the register file once the simulation is completed.
+Originally there were no stage registers used, however it proved to be difficult to implement without several bugs surfacing.
+
+This is my proudest work because it taught me the pipelined design in a CPU and how a component can optimize the speed in which instructions can be handled. 
