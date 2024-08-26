@@ -1,0 +1,269 @@
+Time resolution is 1 ps
+Note: INSTRUCTION 0
+Time: 0 ps  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 1
+Time: 50 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 1
+Time: 100 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 2
+Time: 150 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 2
+Time: 200 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 3
+Time: 250 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 3
+Time: 300 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 4
+Time: 350 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 4
+Time: 400 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 5
+Time: 450 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 5
+Time: 500 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 6
+Time: 550 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 6
+Time: 600 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 7
+Time: 650 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 7
+Time: 700 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 8
+Time: 750 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 8
+Time: 800 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 9
+Time: 850 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 9
+Time: 900 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 10
+Time: 950 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 10
+Time: 1 us  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 11
+Time: 1050 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 11
+Time: 1100 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 12
+Time: 1150 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 12
+Time: 1200 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 13
+Time: 1250 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 13
+Time: 1300 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 14
+Time: 1350 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 14
+Time: 1400 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 15
+Time: 1450 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 15
+Time: 1500 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 16
+Time: 1550 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 16
+Time: 1600 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 17
+Time: 1650 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 17
+Time: 1700 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 18
+Time: 1750 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 18
+Time: 1800 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 19
+Time: 1850 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 19
+Time: 1900 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 20
+Time: 1950 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 20
+Time: 2 us  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 21
+Time: 2050 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 21
+Time: 2100 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 22
+Time: 2150 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 22
+Time: 2200 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 23
+Time: 2250 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 23
+Time: 2300 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 24
+Time: 2350 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 24
+Time: 2400 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 25
+Time: 2450 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 25
+Time: 2500 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 26
+Time: 2550 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 26
+Time: 2600 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 27
+Time: 2650 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 27
+Time: 2700 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 28
+Time: 2750 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 28
+Time: 2800 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 29
+Time: 2850 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 29
+Time: 2900 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 30
+Time: 2950 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 30
+Time: 3 us  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 31
+Time: 3050 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 31
+Time: 3100 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 32
+Time: 3150 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 32
+Time: 3200 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 33
+Time: 3250 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 33
+Time: 3300 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 34
+Time: 3350 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 34
+Time: 3400 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 35
+Time: 3450 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 35
+Time: 3500 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 36
+Time: 3550 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 36
+Time: 3600 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 37
+Time: 3650 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 37
+Time: 3700 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 38
+Time: 3750 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 38
+Time: 3800 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 39
+Time: 3850 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 39
+Time: 3900 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 40
+Time: 3950 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 40
+Time: 4 us  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 41
+Time: 4050 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 41
+Time: 4100 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 42
+Time: 4150 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 42
+Time: 4200 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 43
+Time: 4250 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 43
+Time: 4300 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 44
+Time: 4350 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 44
+Time: 4400 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 45
+Time: 4450 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 45
+Time: 4500 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 46
+Time: 4550 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 46
+Time: 4600 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 47
+Time: 4650 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 47
+Time: 4700 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 48
+Time: 4750 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 48
+Time: 4800 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 49
+Time: 4850 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 49
+Time: 4900 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 50
+Time: 4950 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 50
+Time: 5 us  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 51
+Time: 5050 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 51
+Time: 5100 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 52
+Time: 5150 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 52
+Time: 5200 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 53
+Time: 5250 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 53
+Time: 5300 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 54
+Time: 5350 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 54
+Time: 5400 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 55
+Time: 5450 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 55
+Time: 5500 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 56
+Time: 5550 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 56
+Time: 5600 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 57
+Time: 5650 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 57
+Time: 5700 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 58
+Time: 5750 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 58
+Time: 5800 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 59
+Time: 5850 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 59
+Time: 5900 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 60
+Time: 5950 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 60
+Time: 6 us  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 61
+Time: 6050 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 61
+Time: 6100 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 62
+Time: 6150 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 62
+Time: 6200 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 63
+Time: 6250 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 63
+Time: 6300 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 64
+Time: 6350 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 64
+Time: 6400 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 65
+Time: 6450 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 65
+Time: 6500 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 66
+Time: 6550 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 66
+Time: 6600 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd
+Note: INSTRUCTION 67
+Time: 6650 ns  Iteration: 0  Process: /test/InstructionBufferTest  File: C:/Users/Jason/Documents/Vivado/Final_One/Final_One.srcs/sources_1/new/CPU_BENCHMARK.vhd

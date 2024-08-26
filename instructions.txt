@@ -1,0 +1,43 @@
+li $0, 7, 511
+li $1, 0, 511
+li $1, 4, 127
+bcw $1, $1
+li $2, 0, 776
+bcw $3, $2
+bcw $2, $2
+nop
+nop
+li $0, 0, 65535
+bcw $0, $0
+li $1, 1, 65535
+bcw $1, $1
+or $4, $1, $0
+cnt1h $5, $1
+cnt1h $6, $4
+nop
+nop
+nop
+nop
+nop
+simals $10, $1, $2, $3
+simahs $11, $3, $2, $1
+simsls $12, $1, $2, $4
+simshs $13, $4, $2, $1
+nop
+nop
+nop
+nop
+slmals $14, $1, $2, $3
+slmahs $15, $3, $2, $1
+slmsls $16, $10, $11, $12
+slmshs $17, $12, $11, $10
+nop
+nop
+nop
+nop
+shrhi $18, $3, $5
+au $19, $1, $5
+ahs $20, $1, $2
+nop
+nop
+nop

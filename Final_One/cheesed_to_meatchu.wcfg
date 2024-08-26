@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="test_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="test" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="513.810 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,097.239 ns"></ZoomEndTime>
+      <Cursor1Time time="1,000.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="179"></NameColumnWidth>
+      <ValueColumnWidth column_width="233"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="32" />
+   <wvobject fp_name="/test/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider460">
+      <obj_property name="label">STAGE 1 - FETCH</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">#F0E68C</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/count" type="other">
+      <obj_property name="ElementShortName">count</obj_property>
+      <obj_property name="ObjectShortName">count</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U1/PC" type="other">
+      <obj_property name="ElementShortName">PC</obj_property>
+      <obj_property name="ObjectShortName">PC</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U2/instr" type="array">
+      <obj_property name="ElementShortName">instr[24:0]</obj_property>
+      <obj_property name="ObjectShortName">instr[24:0]</obj_property>
+      <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider549">
+      <obj_property name="label">STAGE 2 - DECODE</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">#FFD700</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U3/opcode" type="array">
+      <obj_property name="ElementShortName">opcode[24:0]</obj_property>
+      <obj_property name="ObjectShortName">opcode[24:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFD700</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U3/data1" type="array">
+      <obj_property name="ElementShortName">data1[127:0]</obj_property>
+      <obj_property name="ObjectShortName">data1[127:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFD700</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U3/data2" type="array">
+      <obj_property name="ElementShortName">data2[127:0]</obj_property>
+      <obj_property name="ObjectShortName">data2[127:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFD700</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U3/data3" type="array">
+      <obj_property name="ElementShortName">data3[127:0]</obj_property>
+      <obj_property name="ObjectShortName">data3[127:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFD700</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider554">
+      <obj_property name="label">STAGE 3 - EXECUTE</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">#00FF7F</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U4/func" type="array">
+      <obj_property name="ElementShortName">func[24:0]</obj_property>
+      <obj_property name="ObjectShortName">func[24:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FF7F</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U5/d1m" type="array">
+      <obj_property name="ElementShortName">d1m[127:0]</obj_property>
+      <obj_property name="ObjectShortName">d1m[127:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FF7F</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U5/d2m" type="array">
+      <obj_property name="ElementShortName">d2m[127:0]</obj_property>
+      <obj_property name="ObjectShortName">d2m[127:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FF7F</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U5/d3m" type="array">
+      <obj_property name="ElementShortName">d3m[127:0]</obj_property>
+      <obj_property name="ObjectShortName">d3m[127:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FF7F</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U5/rs1" type="array">
+      <obj_property name="ElementShortName">rs1[127:0]</obj_property>
+      <obj_property name="ObjectShortName">rs1[127:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FF7F</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U5/rs2" type="array">
+      <obj_property name="ElementShortName">rs2[127:0]</obj_property>
+      <obj_property name="ObjectShortName">rs2[127:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FF7F</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U5/rs3" type="array">
+      <obj_property name="ElementShortName">rs3[127:0]</obj_property>
+      <obj_property name="ObjectShortName">rs3[127:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FF7F</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U6/outp" type="array">
+      <obj_property name="ElementShortName">outp[127:0]</obj_property>
+      <obj_property name="ObjectShortName">outp[127:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FF7F</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider567">
+      <obj_property name="label">FORWARDING</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">#00FFFF</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U8/instr" type="array">
+      <obj_property name="ElementShortName">instr[24:0]</obj_property>
+      <obj_property name="ObjectShortName">instr[24:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U8/opcode" type="array">
+      <obj_property name="ElementShortName">opcode[24:0]</obj_property>
+      <obj_property name="ObjectShortName">opcode[24:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U8/s1" type="logic">
+      <obj_property name="ElementShortName">s1</obj_property>
+      <obj_property name="ObjectShortName">s1</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U8/s2" type="logic">
+      <obj_property name="ElementShortName">s2</obj_property>
+      <obj_property name="ObjectShortName">s2</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U8/s3" type="logic">
+      <obj_property name="ElementShortName">s3</obj_property>
+      <obj_property name="ObjectShortName">s3</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider574">
+      <obj_property name="label">STAGE 4 - WRITEBACK</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">#FAAFBE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U7/field" type="array">
+      <obj_property name="ElementShortName">field[24:0]</obj_property>
+      <obj_property name="ObjectShortName">field[24:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FAAFBE</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U7/WE" type="logic">
+      <obj_property name="ElementShortName">WE</obj_property>
+      <obj_property name="ObjectShortName">WE</obj_property>
+      <obj_property name="CustomSignalColor">#FAAFBE</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U7/rd" type="array">
+      <obj_property name="ElementShortName">rd[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rd[4:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FAAFBE</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U7/dataWB" type="array">
+      <obj_property name="ElementShortName">dataWB[127:0]</obj_property>
+      <obj_property name="ObjectShortName">dataWB[127:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FAAFBE</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider578">
+      <obj_property name="label">REGISTERS</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">#FFFFFF</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/UUT1/U3/registerfile" type="array">
+      <obj_property name="ElementShortName">registerfile[0:31][127:0]</obj_property>
+      <obj_property name="ObjectShortName">registerfile[0:31][127:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFFFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>
